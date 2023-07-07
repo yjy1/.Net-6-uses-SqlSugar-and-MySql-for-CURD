@@ -1,0 +1,94 @@
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\appsettings.Development.json
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\appsettings.json
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Net 6 使用 SqlSugar.exe
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Net 6 使用 SqlSugar.deps.json
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Net 6 使用 SqlSugar.runtimeconfig.json
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Net 6 使用 SqlSugar.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Net 6 使用 SqlSugar.pdb
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.OpenApi.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\MySqlConnector.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Npgsql.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\SQLitePCLRaw.nativelibrary.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\SqlSugar.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\DmProvider.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Kdbndp.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.DirectoryServices.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.csproj.AssemblyReference.cache
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.GeneratedMSBuildEditorConfig.editorconfig
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.AssemblyInfoInputs.cache
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.AssemblyInfo.cs
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.csproj.CoreCompileInputs.cache
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.MvcApplicationPartsAssemblyInfo.cs
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.MvcApplicationPartsAssemblyInfo.cache
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\staticwebassets\msbuild.Net 6 使用 SqlSugar.Microsoft.AspNetCore.StaticWebAssets.props
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\staticwebassets\msbuild.build.Net 6 使用 SqlSugar.props
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Net 6 使用 SqlSugar.props
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Net 6 使用 SqlSugar.props
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\staticwebassets.pack.json
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\staticwebassets.build.json
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\staticwebassets.development.json
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\scopedcss\bundle\Net 6 使用 SqlSugar.styles.css
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.csproj.CopyComplete
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\refint\Net 6 使用 SqlSugar.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.pdb
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\Net 6 使用 SqlSugar.genruntimeconfig.cache
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\obj\Debug\net6.0\ref\Net 6 使用 SqlSugar.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\AutoMapper.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Autofac.dll
+G:\项目\学习\录视频\Chapter2\ConsoleApp1\Net 6 使用 SqlSugar\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll

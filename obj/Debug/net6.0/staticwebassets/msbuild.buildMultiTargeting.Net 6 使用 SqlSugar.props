@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Net 6 使用 SqlSugar.props" />
+</Project>
